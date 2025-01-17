@@ -2,7 +2,7 @@
 font-family: "Roboto", serif*/
 
 body {
-    font-family: "Roboto", serif;
+    font-family: "Roboto", sans-serif;
     color: #434455;
     background-color: #fff;
 }
@@ -61,4 +61,32 @@ a {
 
 .page-footer {
     background-color: #2e2f42;
+}
+
+.text-footer {
+   font-weight: 400;
+   font-size: 16px;
+   line-height: 1.5;
+   letter-spacing: 0.02em;
+   color: #f4f4fd;
+}
+
+.section-h1 {
+    background: #2e2f42;
+}
+.text-h1 {
+   font-weight: 700;
+   font-size: 56px;
+   line-height: 1.07143;
+   letter-spacing: 0.02em;
+   text-align: center;
+   color: #fff;
+}
+
+.button-section-h1 {
+   font-weight: 500;
+   font-size: 16px;
+   line-height: 1.5;
+   letter-spacing: 0.04em;
+   color: #fff;
 }
