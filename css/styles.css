@@ -71,22 +71,45 @@ a {
    color: #f4f4fd;
 }
 
-.section-h1 {
+.section-one {
     background: #2e2f42;
 }
-.text-h1 {
+.text-one {
    font-weight: 700;
    font-size: 56px;
-   line-height: 1.07143;
+   line-height: 1.07;
    letter-spacing: 0.02em;
    text-align: center;
    color: #fff;
 }
 
-.button-section-h1 {
+.button-section-one {
    font-weight: 500;
    font-size: 16px;
    line-height: 1.5;
    letter-spacing: 0.04em;
    color: #fff;
+   background: #4d5ae5;
+   cursor: pointer;
+}
+
+.button-section-one:hover,
+.button-section-one:focus {
+    background: #404bbf;
+}
+
+.text-section-two {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2e2f42;
+}
+.Strategy,
+.Punctuality,
+.Diligence,
+.Technologies {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
