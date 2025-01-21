@@ -98,7 +98,7 @@ a {
     background: #404bbf;
 }
 
-.list-sections {
+.list-section {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -106,6 +106,15 @@ a {
     text-align: center;
     color: #2e2f42;
 }
+
+.text-section-two {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
 .text-list-section-two {
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -128,13 +137,25 @@ a {
     background-color: #FFFFFF;
 }
 
+
 .text-list-section-three,
 .text-list-section-four {
     font-size: 16px;
     line-height: 1.5;
+
     letter-spacing: 0.02em;
     color: #434455;
 }
+
+.text-section-four {
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
+
 
 
 
